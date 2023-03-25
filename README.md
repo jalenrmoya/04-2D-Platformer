@@ -6,15 +6,12 @@ March 25th, 2023
 
 
 ## Implementation
-Required Features:
 	Player that can move left, right, jump
 	Enemies
 	Platforms
 	Interactive Terrain
 	Coins and a Scoring System
 	Camera Follows Player
-	
-Extra Features:
 	Royalty Free Chiptune Music added
 
 ## References
